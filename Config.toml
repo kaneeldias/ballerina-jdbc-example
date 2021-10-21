@@ -1,0 +1,3 @@
+dbUrl = "jdbc:mysql://<SERVER_IP>/<DATABASE_NAME>>"
+dbUsername = "<DB_USERNAME>"
+dbPassword = "<DB_PASSWORD>"
